@@ -1,2 +1,4 @@
-# Article.DSS.Python.ConvertSymbology
-Convert symbology (ISIN, Sedol, CUSIP, RIC) using DSS API
+# Example notebook for the Symbology Conversion article
+
+Read the full article on the [Developers Portal](https://developers.lseg.com/en/article-catalog)
+
